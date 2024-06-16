@@ -10,3 +10,6 @@ Game NOD
 
 Game progression:
 [![asciicast](https://asciinema.org/a/SFdQtGX3boTqZHy9zZDHBhryH.svg)](https://asciinema.org/a/SFdQtGX3boTqZHy9zZDHBhryH)
+
+Game Prime:
+[![asciicast](https://asciinema.org/a/iECipGRUIzosJVvzYCQa8OqhR.svg)](https://asciinema.org/a/iECipGRUIzosJVvzYCQa8OqhR)
