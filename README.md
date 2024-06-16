@@ -7,3 +7,6 @@ Game Calc:
 [![asciicast](https://asciinema.org/a/sYEjpkO22mhxBMqLV3OtEE7MR.svg)](https://asciinema.org/a/sYEjpkO22mhxBMqLV3OtEE7MR)
 Game NOD
 [![asciicast](https://asciinema.org/a/YENcSP3tdMUWdOlGB9Z7C5q40.svg)](https://asciinema.org/a/YENcSP3tdMUWdOlGB9Z7C5q40)
+
+Game progression:
+[![asciicast](https://asciinema.org/a/SFdQtGX3boTqZHy9zZDHBhryH.svg)](https://asciinema.org/a/SFdQtGX3boTqZHy9zZDHBhryH)
