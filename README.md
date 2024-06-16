@@ -5,3 +5,5 @@
 [![asciicast](https://asciinema.org/a/iNUDSA2WgYLzV4MdSZQerrMlU.svg)](https://asciinema.org/a/iNUDSA2WgYLzV4MdSZQerrMlU)
 Game Calc:
 [![asciicast](https://asciinema.org/a/sYEjpkO22mhxBMqLV3OtEE7MR.svg)](https://asciinema.org/a/sYEjpkO22mhxBMqLV3OtEE7MR)
+Game NOD
+[![asciicast](https://asciinema.org/a/YENcSP3tdMUWdOlGB9Z7C5q40.svg)](https://asciinema.org/a/YENcSP3tdMUWdOlGB9Z7C5q40)
